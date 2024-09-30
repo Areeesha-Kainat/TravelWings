@@ -1,5 +1,5 @@
 # TravelWings
-## TravelWings is a sleek and visually appealing front-end travel website designed to enhance the experience of booking trips and exploring travel destinations. Developed using HTML, CSS, and JavaScript, this project aims to provide a user-friendly interface with an eye-catching UI to help users plan and book their next adventure effortlessly.
+TravelWings is a sleek and visually appealing front-end travel website designed to enhance the experience of booking trips and exploring travel destinations. Developed using HTML, CSS, and JavaScript, this project aims to provide a user-friendly interface with an eye-catching UI to help users plan and book their next adventure effortlessly.
 
 ## Features
 Responsive Design: Ensures that the website looks great and functions smoothly across all devices, including desktops, tablets, and mobile phones.
